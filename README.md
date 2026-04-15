@@ -64,15 +64,7 @@ python main.py
 
 ---
 
-## 📷 Output
 
-(Add your screenshot here)
-
-```md
-![Output](output.png)
-```
-
----
 
 ## 🎯 How It Works
 
